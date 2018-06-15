@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.2">
-  <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="net.cecfuentedevida.campus" version="3.4.2">
+  <name>LMS SAE</name>
   <description>
-        Moodle Mobile official app
+        LMS SAE Movil App
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://lms.gtdesarrollo.com" email="lms@gtdesarrollo.com">
+        GT Desarrollo
     </author>
   <content src="index.html"/>
   <access origin="*"/>
