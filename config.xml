@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.cecfuentedevida.campus"
+        id        = "com.moodle.moodlemobile"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>SAE LMS</name>
+    <name>Moodle Mobile</name>
 
     <description>
-        SAE LMS
+        Moodle Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        GT Desarrollo
+        Moodle Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
